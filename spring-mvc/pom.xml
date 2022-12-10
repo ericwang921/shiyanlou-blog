@@ -43,7 +43,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.1.13.RELEASE</version>
+            <version>6.0.0</version>
         </dependency>
 
         <!--为 Spring 框架提供 servlet 支持-->
